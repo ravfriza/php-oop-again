@@ -1,5 +1,9 @@
 <?php
 
+// SUMMARY
+// Polymorphism allows objects of different classes to respond differently to the same message.
+// Use interfaces or abstract classes to implement polymorphism in PHP.
+
 abstract class Person
 {
     public abstract function greet();
